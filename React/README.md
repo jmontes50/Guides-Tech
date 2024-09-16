@@ -86,3 +86,4 @@ Ahora puedes empezar a desarrollar tu aplicación React en el directorio `src`.
 
 - [Instalación de Node.js video](https://www.youtube.com/watch?v=29mihvA_zEA)
 - [Creación de un proyecto de React con Vite](https://www.youtube.com/watch?v=xqSkjzrnBWY)
+- [Más recursos especificos](./docs/Resources.md)
